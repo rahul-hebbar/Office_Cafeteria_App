@@ -1,0 +1,11 @@
+[
+    {"category":"Beverages","item":"Coke","picurl":"https://images.pexels.com/photos/4113682/pexels-photo-4113682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"},
+    {"category":"Beverages","item":"Orange Juice","picurl":"https://images.pexels.com/photos/158053/fresh-orange-juice-squeezed-refreshing-citrus-158053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"},
+    {"category":"Beverages","item":"Coffee","picurl":"https://images.pexels.com/photos/982612/pexels-photo-982612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"},
+    {"category":"Beverages","item":"Tea","picurl":"https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"},
+    {"category":"Snacks","item":"Doughnut","picurl":"https://images.pexels.com/photos/5468021/pexels-photo-5468021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"},
+    {"category":"Snacks","item":"Pizza","picurl":"https://images.pexels.com/photos/1146760/pexels-photo-1146760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"},
+    {"category":"Snacks","item":"Burger","picurl":"https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"},
+    {"category":"Snacks","item":"Fries","picurl":"https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"},
+    {"category":"Snacks","item":"Sandwich","picurl":"https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"}
+]

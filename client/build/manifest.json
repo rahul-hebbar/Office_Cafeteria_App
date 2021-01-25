@@ -1,0 +1,8 @@
+{
+  "short_name": "Cafeteria APP",
+  "name": "OFF_CAF_REACT",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
